@@ -1,1 +1,1 @@
-clone and npm run serve
+clone and npm run dev
